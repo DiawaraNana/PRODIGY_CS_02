@@ -38,7 +38,7 @@ project/
 Make sure you have **Python 3.x** installed and the required libraries:
 
 ```bash
-pip install pillow
+pip install cryptography pillow
 ```
 ## Usage
 
