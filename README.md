@@ -21,12 +21,13 @@ This project was developed as part of my **internship** to demonstrate practical
 ---
 
 ##  Project Structure
-project-folder/
+
+project/
 │
-├── encrypt_img.py # Main Python script for encryption and decryption
-├── README.md # Project documentation
-├──key.key              # Encryption key (auto-generated if missing)
-└── home/kali/telechargements/encrypt_decrypt_img/
+├── encrypt_img.py       # Main application file
+├── key.key              # Encryption key (auto-generated if missing)
+├── README.md            # Documentation
+└── home/telechargements/encrypt_decrypt_img/   # Folder for encrypted/decrypted images
 ---
 
 ##  Requirements
